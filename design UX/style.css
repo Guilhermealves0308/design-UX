@@ -1,0 +1,55 @@
+body {
+    background-image: url(/img/Mushoku\ Tensei.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+    text-align: center;
+    background-color: black;
+}
+
+.logo img {
+    width: 64px;
+    height: 64px;
+}
+
+.logo h1 {
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+
+}
+
+nav {
+    background-color: deepskyblue;
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+li {
+    list-style-type: none;
+text-align: left;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+.container {
+    background-color: #0B90D4;
+    padding: 10px;
+}
+.imagens{
+    width: 50%;
+}
